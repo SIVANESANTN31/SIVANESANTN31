@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/free-vector/flat-minimal-technology-twitch-banner_23-2149061676.jpg?t=st=1726151244~exp=1726154844~hmac=f5d034814dd6fec194687c8cb526cdd5aeee5a0ba9f3d8cc4016958fb28a58c1&w=1380)
+
 <h1 align="center">Hi 👋, I'm SIVANESAN S</h1>
 <h3 align="center">A passionate frontend and App developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/UrnPTaqPEzkAAAAd/developer.gif">
