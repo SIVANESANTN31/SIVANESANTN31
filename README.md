@@ -1,4 +1,4 @@
-<img src="linkedin_banner.png" alt="Profile">
+<img src="LinkedIn Banner.png" alt="Profile">
 <h1 align="center">Hi 👋, I'm SIVANESAN S</h1>
 <h3 align="center">A passionate frontend and App developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/UrnPTaqPEzkAAAAd/developer.gif">
