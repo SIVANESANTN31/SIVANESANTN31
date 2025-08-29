@@ -95,6 +95,8 @@
   </tr>
 </table>
 
+---
+
 ### 📊 GitHub Stats  
 
 <table align="center">
@@ -111,3 +113,5 @@
 
 ⭐️ From [SIVANESAN S](https://github.com/sivanesantn31)
 
+
+---
