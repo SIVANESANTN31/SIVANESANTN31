@@ -111,12 +111,3 @@
 
 ⭐️ From [SIVANESAN S](https://github.com/sivanesantn31)
 
-&emsp;&emsp;</p>
-<h3 align="left">Other: </h3><p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &emsp;&emsp;
- </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sivanesantn31&show_icons=true&locale=en" alt="sivanesantn31" /> &emsp;&emsp;
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sivanesantn31&" alt="sivanesantn31" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sivanesantn31&show_icons=true&locale=en&layout=compact" alt="sivanesantn31" /></p>
