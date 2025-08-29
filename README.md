@@ -95,17 +95,17 @@
   </tr>
 </table>
 
-
 ### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sivanesantn31&show_icons=true&theme=tokyonight" alt="github-stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivanesantn31&theme=tokyonight" alt="streak-stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivanesantn31&layout=compact&theme=tokyonight" alt="top-langs" />
-</p>
+
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=sivanesantn31&show_icons=true&theme=tokyonight" height="180em"/></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=sivanesantn31&theme=tokyonight" height="180em"/></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivanesantn31&layout=compact&theme=tokyonight" height="180em"/></td>
+  </tr>
+</table>
 
 ---
 
